@@ -3,12 +3,12 @@ import styled from 'styled-components'
 export const Container = styled.section`
     border-bottom: 8px solid #222;
     width: 100%;
-    max-width: 1200px;
 `
 
 export const Inner = styled.div`
     display: flex;
-    padding: 70px 45px;
+    padding: 70px 0;
+    width: 90%;
     flex-direction: column;
     max-width: 815px;
     margin: auto;
