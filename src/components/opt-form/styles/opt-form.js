@@ -60,4 +60,5 @@ export const Text = styled.p`
     font-size: 19px;
     color: #FFF;
     text-align: center;
+    width: 100%;
 `
